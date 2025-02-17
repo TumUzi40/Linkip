@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwelj3v18I8rf_McSK0AlHDwUv6wfU911aAw5-ntoM___7_CdzasC4H1ISn6Ms81MkJVQoiGRY5uz1cryiJQn7WYNPpo2TEUVHHxgCB5EYEZdCQ4oNaPZDeWZGpwp2BISoz3xSkP9z-SK7ARayQ0ZKvV9S2cJR4U9C8HwAxTeeex-uKtGrkOPiUX05aw/s1600/ช่องnbt.png",NBT
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QFW3IH3y7FdCSzwxUwC7-6GbLSfFK_EtQ-CPNkooOiBlIPtyCykkehV_tWebt-QttsPUq1j7GFqx9Q_lVcs63bICtb9GrehJN7aXeRSwHLUdjpCeKLFQKaBD15CWM0a8NLlJ9joZLuYAv_Oftq0L_aNYmyoauiLgNQET3Nb8dEuZdB7yXcEQOnsjxQ/s1600/ช่องtpbs.png", TPBS
+http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2PuBeuxD9pUUk0_4llqlZdyJlscbnD6q7XCuIz1gWPiHvmmpS8pYUcmdBKhqVVor3a0KJuq1ZEZwpKOYZ5Uefag_Z9JHo2Yu3lWfS7Fj-_58cKGtDLBf9BoIAlHYEI2wSqdRXPNIxW1-HXkLNA8Iv3b-lwIBXzdRUCcJkuo3SpJhdSrby5IYLkPL_Hw/s1600/ช่องaltv.png", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyTnZwJqiiEQiyvnds7yLBS2fs1scnDtxSUFWF4BYKXI8viVDKdBfOX1nEumHa1ykNZvaorQUS5F7ZciEUUhehhloljQLv5oC-DFfT7MIZPIWptiEw5Prt86wmd9TqRWIWpuWwXy2sTCLs8pcPhSgSvMWO0Et8mWjXsu93FsuxaZWBbTrsWmK8SEynHg/s1600/ช่อง5-3.png", 5HD
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Q0kSqGiDkM-VSkqWEkee7XSapoitBFqy4VBri6RgB1JKOwKFMxbOm48kZhm5JSktSCL2XUrlGKb4HV3iG6ge_KmqnA_ehmAsmaxoyMUhn-AY2q11z0FjswAgnLHlQ7o1Eg3DwcoVfvXzbH0h3d3Auemuo4N0RJ2grPYDK_P_USzics_sOfTRBxyoBw/s1600/ช่องtnn.png", TNN16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEZSVuw8qMddKwnN-vLt2Xij87vAr11qcgOgapWC1fV68jixTDxN4UMGfgcZ3bgnk231CkINYlbl9Zbb3oFbpKKTVwdhKKPxNCiNd1DHRqmxfAequ6BHHkJPVs049NHvAjKgxXEo-137U97PZzdwn5iVsSk7q0V6_h56j-_JC0dYEYYyg7OIcniw9TFw/s1600/ช่องjkn.png", JKN18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTS-aN8-Atf2bNLP9V6fUTg17iSf2_WIFFauqQNlKDXlsHcCotr1d3neYUT5-DYWz4J5I4_kDFDkqh6uAMH180A5Ckqgs1Ncw2_Qd_41T6qJlzqS0acZzzu-CTlPluxxj22CbGKtxwVw40hfMWSWqZBsym121BTm0SPNBfuong-rw5kKNGs4ou3WpiNQ/s1600/ช่องnation.png", NATION
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirhBXdQ7h9FJgZKJmYAv3T0kcaExj8u7K_3OR7gqMZVNJ_MhbZnrVmrWP9WwmzzwrSf1y3ewExFaHmWtZAt73O_ef_MZBmcxFjRoqvvZekGZ8kz1LLTqEu6JJGjVrO-n5L7M2cg0WgR1AfGj-7NF3FRXPTqF-jSDXFTIMx7JEul3C7VGorkUzG_28IsQ/s1600/ช่องworkpoint.png", WORKPOINTTV
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilx6n5LJX1vC6lCVNyVOB2lMaQAYY63xP2tT_WVMVi38fyd7464xFYWwn4208bvq_B_JuqnLp43F6vvG2HEZfygNx6JyDUS3F3KMIw37e3M2lAC8nrQXc_HC_clZtkygaTdfyn13QwBLVQUG7b7lH-eB2-6gwLWTkLTYdcX_ZhO1-erSlXDKwQp5lIbg/s1600/ช่องtrue4u.png", TRUE4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMS8xWMWr9CZ5KWa2DnOeFZGcHjd2r9xPZU6LoSqTWJNqnHaq44E2kK8dRSi6bBJEpRKMqHFud8_s3mM5-oStPoPh5DXwmM_kgpZ4xn34TP6Z6wescKJeMuAgZBvP8zAyEdtCIXCx3vzfmf76BoWLvbuhbWD2EE316n86pWcx--d3oVbXQxUjGjIY6DA/s1600/ช่องGMM.png", GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbUluRV-iUf__6SI2W1Tv7AS9fmfbmEnvww97WoXIHNRZHhjKM1bzfARI5pgjl2WKhSL_PN2UnbPUu8dHfFOPTC806ibVBkNRwUUya0he9F2SCrJjqTFjdxqS0j6fLkwxcm4yU60VPA0esEltgG7SCQPr8CdLom2aDxvvkMEb8gDVzfFTU1rCqFyop0g/s1600/ช่อง8.png", CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZW8zQpFAxqm2JwFAF6yUZBvjL3nap-uL8B2T6GcJ3f4ujgEMaq_u9XQPM6PdAKzNc9vckMFjGUGlJbC8IsbR91o2vgD3rHqN-yf2-XG3fZf8hVSGf7iUZq1omFor91JI6I4P_2cjGqROLbqAwBkAqcDG6dCgFPYqSn9BjSZ2ewpN4KlrGRxfKXBt8sA/s1600/ช่องmono.png", MONO29
+http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdEm6M_7E8F67sXHsUQqx32JMPKR53swMDmPB6RO3bxWyoqt7vtSyhy7WNAhQnSWNDdoV9gZoVOxgS2D3Bq2SRt3ojxNlCROO-QkvMLO2KtReQ2-8HTqBtDdPuVyUGpD1DT631bvL_KnUnq9_b5MdqeYZvIFuZYEBGWy5icpGZ8ObT9I5ZQTCES931vw/s1600/ช่องmcot.png", MCOT HD
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRlzoy7GiByoRbirA_GCICF4PSv0xcMi1nu9uA-tVBQmlThAjx74ZMTnpZ_q9dqP164NTD6jt070ljcvWZe89ULFb3V4Jz8byPcz6Zic15043asP6zP3kcZtGW4QSl61tTk5-UfbOYggBWYKWu1HduncVQdLOoM7IbDCIH9YjY13v0z4q7FFjmXJ1u3w/s1600/ช่องone.png", ONE HD
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I3eAiKpqFr4W-gI_myKaPgbBb7Mkge7-tEK5nBUBDkRWXY3StmoatZYgiJ-90UZj0RjnTH7ue4yLt59zMN4B39VZ4ea_7pbiwMPWqDAnIW5wErMoE1wfn0PgkL3ZM_mItv6lKpMvFZFnmKhJpwW8AvzPaqqbDd3MpBDE-12dDFmlNCB0jIK2iwcyWA/s1600/ช่องไทยรัฐ.png", THAIRATH TV
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsCFSOINHLoQzqkRJsPiDWjVAkHbGfVblDQBYKq7nGdhd08mS4sMtcxK1lIWISGxyA75zAy6-U01xsNlQlbKthd9CzcF7ZKEY5ymu5vQIBrg3mA_yL-1mKznihCL0IJ-zVdG2k0iZs3QT5MvAqXRMCLPAyC0z6Rilnm6pSyevXWofCGFFpFWVb7RvPw/s1600/ช่อง3-2.png", 3HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibLiCKwC4XsOIfozXZGKu_bgdg2g3btFUhe9ZCo_C3cARgPTZFbB2M1S13m52FyXOdIVOYit3Vh9FYffjxJI65AQX1SPmFZpZaqmK95Q2-Kviqoe4_Z8wtfVhJ2vGpj6UXGdXykvd9pFqAXukf_dr7HlklPlJoEKntpNXq0ps6gKkMivu4M6yU5_01yQ/s1600/ช่องamarin.png", AMARIN
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0ySgG758nAO3C-9fxLFmzJTOgB33vNZtNfJRpr-NTWax6EXNXp4813hjmndvPsN1TFFf9--8ibMIFIhG_3LXKC5_wn1GZhCsg_LSwpoggs8awEwXnFSjYJYsXdxSdm4rT4RVcdf2oL7javMP024Xbt2OdoRtuMDh5JzWBHZCKIlrXRvn_gKK18gejw/s1600/ช่อง7.png", 7HD
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAYZOirx9DofLvjrpHk7Ps12uoq-uF90-ctE7dU-StW39TZNFFA7F-F4Ive7Zxhny3pjSAO0W7HDo36hyjWi5Tgh8NWWJIjXQJNeBE68j37gTPSnyJdZZ_DG7JMNshen8F4L4xUvwLjKCX0aI0Hee1jZXYCyuNZvSHBti7PdJMHNyhY921cFmrcvD4XA/s1600/ช่องpptv.png", PPTV36
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF: tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-zIbqaqEipScsGWe6j50vi9UHBeJohdu9isGXu815TRQYtGd5ZLF5-OLc9XfQGEg1QpItXVOTLP7yUUYPhnPRUAyySxiDX8mRn_AjIb1IFdhb_mveVvUWwIcTUg_4gYDizUpE3bzD_Zar6CaqwAQoBjitxVukUuCIw21Tw6s6-CBrr2IcrFrO7i2pA/s1600/1200x630wa.png", TOPNEWS
+https://live.topnews.co.th/hls/topnews_720.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/tsport26807a4c2826a386.png", T SPORTS7
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/tptv76bbbd3f8d89c37f.png",TPTV
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/298b4e8531cc90280.png",POLICE
+https://cdn-th-vip.login.in.th/policetv/policetv/chunklist.m3u8
