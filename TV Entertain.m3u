@@ -1,0 +1,150 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img5.pic.in.th/file/secure-sv1/2b1db1c14016112bc4873da7cadc63ec.jpeg"",SUWANNABHUMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img5.pic.in.th/file/secure-sv1/b7eba56503e78e260813905cf08af108.png"",DHAMMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img2.pic.in.th/pic/images989f2888d1304937.jpeg"",MOUNCHON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://www.i-pic.info/i/UvFp328533.jpg"",Cartoon Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img2.pic.in.th/pic/1975431545962dd2e.jpeg",PBS KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1f1e79f19b8472c82.jpeg",ZOOMOO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://i.imgur.com/FB4HQBi.png",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_original.png",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_21.png",MONO 29 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1337408591.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://i.imgur.com/2KybYyr.png",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",@TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",TVB Thia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAWRg7LH7xBHKgIzVjLemhMeWfM1LwKCJqQ&usqp=CAU",Mung-Gorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",CHANNEL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",TRUE SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://www.muanchononlinenews.com/wp-content/uploads/2022/09/521978-400x400.jpg",SIAM NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703686191.png",HBO  HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=95526&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MTA6MTcgUE0maGFzaF92YWx1ZT1lVG5VbE1oTlVLWWJPS1ZDZTA0djNBPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703786776.png",HBO  Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=95690&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MTM6MjUgUE0maGFzaF92YWx1ZT02MzJFd2N1dEV2UXE3NkNMYzdweXNnPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703786599.png",HBO Hit 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MTY6MDYgUE0maGFzaF92YWx1ZT1NQ0MyYnozWjZRekh1TUV4U293RVVnPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703786305.png",HBO  Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MTc6MzAgUE0maGFzaF92YWx1ZT1rNmczMzYyWTRzWWdYRmx2RnNXUU1RPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703829940.png",3BB Asian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/3bbasian
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1703786799.png",CINIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MTk6MzcgUE0maGFzaF92YWx1ZT1zMXZWQ2k0anJBOERUVko0Q2Y0QXhRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1714100677.png",HIT MOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hits-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MjA6NTMgUE0maGFzaF92YWx1ZT0wNnJ5NWVEMnozWUpWdVhXbysveFB3PT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://dookeela.live/uploads/1714100840.png",tvN MOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/tvn-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDE6MjE6NTQgUE0maGFzaF92YWx1ZT1qVDFvQjU4UEVwRFdoZGxBR2J3Mk1RPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Entertain" tvg-logo="https://img.inwiptv.net/postor/20240421225407CartoonClub.jpg",CartoonClub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1781446574.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDQ6MjU6NTEgQU0maGFzaF92YWx1ZT1xQWp4UGhxZU9UeXN0ZUNSbmtBMld3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
+
+

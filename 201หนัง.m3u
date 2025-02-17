@@ -1,0 +1,117 @@
+#EXTM3U 
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703686191.png",1.HBO HD
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=274&tv=HBO
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703786599.png",2.HBO HITS
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=276&tv=HBOHits
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703786305.png",3.HBO SIGNATURE
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=275&tv=HBOSignature
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1703786776.png",4.HBO FAMILY
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=277&tv=HBOFamily
+
+#EXTINF:-0 group-title="Movies"tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703786799.png",5.CINEMAX HD
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=278&tv=CINEMAX
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703832225.png",6.WARNER TV
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=282&tv=WarnerTV
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703686191.png",7.AXN
+#EXTVLCOPT:http-referrer=
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=413&tv=AXNHD
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1706112779.png",8.PARAMOUNT NETWORK
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=303&tv=Paramount Network
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/17141006779ba901f181820b63.png",9.HITS MOVIES
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=356&tv=HITS MOVIES
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1706112791.png",10.HITS
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=304&tv=HITS
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1718690283.png",11.ROCKENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=403&tv=ROCKENTERTAINMENT
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1718690264.png",12.ROCKACTION
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=402&tv=ROCKAction
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1719205850.png",13.TRUE ASIANMORE
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=405&tv=TrueAsianMore
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1720380229.png",14.TRUE FILMHD1
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=418&tv=TrueFilm1
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1720723122.png",15.TRUE FILMHD2
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=420&tv=TrueFilm2
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1719205705.png",16.TRUE FILMASIA
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=404&tv=TrueFilmAsia
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/171980388267fde82071f4ee3c.png",17.TRUE MOVIESHITS
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=412&tv=TrueMovieHits
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/170653989689fd11eea7bc87ce.png",18..TRUE THAIFILM
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=307&tv=TrueThaiFilm
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1719205991.png",19.TRUE SERIES
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=406&tv=TrueSeries
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1719803240.png",20.CCM
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=411&tv=CCM
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1703829940.png",21.3BBASIAN
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=281&tv=3BBAsian
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1714100840.png",22.TVN MOYIES
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=357&tv=tvNMOVIES
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1730064952.png",23.SONY MOVIES
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=541&tv=SonyMovies
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703787733.png",24.MONO29PLUS
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=280&tv=MONO29Plus
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img2.pic.in.th/pic/1703829940-crop.png",25.CHANALL8
+#EXTVLCOPT:http-referrer=
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703829940-crop.png",26.ช่องหนังTHAI
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+http://45.154.24.21:80/play/bsR8VAkCzQktaM2gpi3CEJr2I4H3tmg3RlGVpylLJjo/m3u8
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703829940-crop764584c5f4145d94.png",27.ช่องหนัง INTER
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+http://45.154.24.21:80/play/bsR8VAkCzQktaM2gpi3CEMtmBssthCtMs3T5hqjfRAY/m3u8
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1703829940-crop1fe424417d0a39a7.png",28.ช่องหนัง ASIAN
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+http://45.154.24.21:80/play/bsR8VAkCzQktaM2gpi3CEG0RRa6r4PX6kYM8vWui5IQ/m3u8
+
+
+#EXTINF:-0 group-title="Movies" tvg-logo="https://img5.pic.in.th/file/secure-sv1/17038299.png",29.ANIMA TV
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+http://45.154.24.21:80/play/bsR8VAkCzQktaM2gpi3CEMtt5b2Koqaw-YSg6U-XqcU/m3u8

@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",001-True Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/truesports1/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",002-True Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",003-True Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",004-True Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/truesports4/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",005-True Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/truesports5/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",006-True Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/truesports7/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",007-Bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/bein1/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",008-Bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/bein2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",009-Bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/bein3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",010-True Premier HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/chunks.m3u8 
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",011-True Premier HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/epl2/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",012-True Premier HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd3/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",013-True Premier HD4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/epl4/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",014-True Premier HD5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn1.aws-live-streaming.com/ais/epl5/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",015-Spotv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/spotv1/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",016-Spotv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/spotv2/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",017-Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/tennis/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",019-PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://www.inwiptv.com/player_demo.php?channel=27129
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",020-MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/mcothd/chunks.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",021-THAIRATH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:update=24-07-2023 20:18:43  
+#EXTVLCOPT: develop by IPTV
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8

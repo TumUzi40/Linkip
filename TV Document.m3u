@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvV6jS6CnXeaVO3EoX2Rq6gwTZThwo_Qb6A&usqp=CAU",HUNT CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://dookeela.live/uploads/1705536821.png",Samrujlok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://dkl-c33es.cdn.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=88668&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDg6MzY6NTYgQU0maGFzaF92YWx1ZT1pMkdxTm8vK2hmVlg1SzhOTkpJVFB3PT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",History (Germany)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://dkl-c33es.cdn.akamaiz.com/dookeela/history/chunks.m3u8?nimblesessionid=88719&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI0IDg6Mzc6NDUgQU0maGFzaF92YWx1ZT1hcGJkWHVtLzB4cjdINjllVG5Eb25nPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/DMAX-logo-255x140.png?itok=F_cnaF3c",DMAX (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQEEE9PjvLlJAA/company-logo_200_200/0/1630617516037/discovery_channel_logo?e=2147483647&v=beta&t=hdeKbxmoHUxGdzMP1t49zgAugAVn6tQ6SNa8R85uwjU",Discovery Channel (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",Discovery Asia (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",History (TH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",True Vision afn (TH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (TH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p25sh1.png",WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=11374&extension=ts&play_token
+
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://sv1.picz.in.th/images/2022/11/10/vaoq5Q.png",NATURE TIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://sv1.picz.in.th/images/2022/11/10/vaobig.png",REAL WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2b6YE.png",DISCOVERY DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TV Document" tvg-logo="https://ewsat.com/img/DISCOVERY_HISTORY.png",DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8

@@ -1,0 +1,164 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl1.png",001 PremierHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43  
+#EXTVLCOPT: develop by TumMeng
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png",002 PremierHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl3.png",003 PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/doomovie-epl4.png",004 PremierHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png",005 PremierHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",006 SportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",007 SportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tsport3.png",008 SportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",009 BEIN SPORT HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/epl-bein2.png",010 BEIN SPORT HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-spotv1.png",011 Spotv HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-spotv2.png",011 Spotv HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-spotv2.png",012 Tennis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",013 SportHD 1 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",014 SportHD 2 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport3.png",015 SportHD 3 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl1.png",016 PremierHD 1 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png",017 PremierHD 2 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl3.png",018 PremierHD 3 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl4.png",019 PremierHD 4 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl5.png",020 PremierHD 5 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+#EXTVLCOPT:update=05-03-2024 20:18:43
+#EXTVLCOPT: develop by TumMeng
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
+

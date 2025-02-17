@@ -1,0 +1,54 @@
+{
+"name": "NKK.TV(ກົດ Refresh ເພື່ອອັບເດດລີ້ງ) ",
+"author": "Noykhamkong",
+"image": "https://i.pinimg.com/originals/c4/1b/dc/c41bdcd8f6f0b60cc7328e282ebeef79.jpg",
+"url": "https://pastebin.com/raw/u7rndh1x",
+"info": "",
+
+
+
+"groups": [
+
+
+{
+"name": "ກິລາ (Sport TV)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02NBOo4a_24igeYCFD3aE0d1Zh8rgtjhlIQ&usqp=CAU",
+"url": "https://pastebin.com/raw/63dbwdVn",
+"import": "true"
+},
+
+{
+"name": "ກິລາຕ່າງປະເທດ",
+"image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
+"url": "https://pastebin.com/raw/xb5HpC7q",
+"import": "true"
+},
+
+{
+"name"              :     "EURO 2024",
+"image"             :     "https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg",
+"url"               :     "https://pastebin.com/raw/kWqJEkm5",
+"import": false
+},
+
+{
+"name"              :     "Copa America 2024",
+"image"             :     "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",
+"url"               :     "https://pastebin.com/raw/cP7sq6fS",
+"import": false
+},
+
+{
+"name": "ຊ່ອງຝຣີ (FreeTV)",
+"image": "https://lh3.googleusercontent.com/B4MTkj623tCeVPhg_YH1Ob6_KXqdMBOaEjoBlEH7D3uMhncMi_v2iCEcKJ3MLzY6oso=w512-rw",
+"url": "https://pastebin.com/raw/iQ4n8WAJ",
+"import": "true"
+},
+
+
+
+
+
+
+]
+}​

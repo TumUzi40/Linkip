@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/14b307448a75cbd4e.png",EPL1
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/14b307448a75cbd4e.png",EPL1 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/2f98dc32c3a946846.png",EPL2
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/2f98dc32c3a946846.png",EPL2 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/3f82c4f8a7131c506.png",EPL3
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/3f82c4f8a7131c506.png",EPL3 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4395e2a8a5f83e84b.png",EPL4
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4395e2a8a5f83e84b.png",EPL4 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/51aca913fee52da72.png",EPL5
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/51aca913fee52da72.png",EPL5 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/166480245590a57d5361c8dfa3.png",TSP1
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp1/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/22b2079db7185fa780.png",TSP2
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/33737d0f4ca1ed3ade.png",TSP3
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp3/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/44fd0962caad31f61f.png",TSP4
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp4/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/551d47ed88e7d22a12.png",TSP5
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp5/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/77b882ae695399f443.png",TSP7
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp7/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/ten.png",TENNIS
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truetennis.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/1a3d6b28f1a2a439a.png",BEIN1
+https://cdn-la2.aws-stream.com/ondemand/od3/bein1/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/2c538908cb0655c22.png",BEIN2
+https://cdn-la2.aws-stream.com/ondemand/od3/bein2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/394362aa7f262887f.png",BEIN3
+https://cdn-la2.aws-stream.com/ondemand/od3/bein3/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4dfa4e26713b8d04c.png",BEIN4
+https://cdn-la2.aws-stream.com/ondemand/od3/bein4/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/5e3379acfb2a357bd.png",BEIN5
+https://cdn-la2.aws-stream.com/ondemand/od3/bein5/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/676683cf77ea195ac.png",BEIN6
+https://cdn-la2.aws-stream.com/ondemand/od3/bein6/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/72181f68b907a3be2.png",BEIN7
+https://cdn-la2.aws-stream.com/ondemand/od3/bein7/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/8c4819793d68e740d.png",BEIN8
+https://cdn-la2.aws-stream.com/ondemand/od3/bein8/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/1f6b87bdc728f2fe3.png",SPOTV1
+https://cdn-la2.aws-stream.com/ondemand/od3/spotv/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/2c353ed581f56476f.png",SPOTV2
+https://cdn-la2.aws-stream.com/ondemand/od3/spotv2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/NBA4cefcf348a18f8ac.png",NBA
+https://cdn-la2.aws-stream.com/ondemand/od3/nba/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/NFL8289bab47de400ab.png",NFL
+https://cdn-la2.aws-stream.com/ondemand/od3/nfl/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/MUTV.png",MUTV
+https://cdn-la2.aws-stream.com/ondemand/od3/mutv/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1708490904.png",FIGHT SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ช่องทรูวิชั่น",True Film Asia
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องทรูวิชั่น",True AXN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-232493409322af619.png",CH8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images7be50d5ec03a6ba7.png" ,DISCOVERY ASIA
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องทรูวิชั่น", True Crime+Investigation
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="ช่องทรูวิชั่น",BBCLifestyle
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
+#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="ช่องทรูวิชั่น",TRUE Lifetime
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="ช่องทรูวิชั่น", TRUE HISTORY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องทรูวิชั่น",TRUE DreamWorks 
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องทรูวิชั่น",TRUE SPARK PLAY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,Nickjr
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/-163155246c26960eb.png" ,Nicklodeon
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/nicklodeon.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/e1da3c85e85596f19cacc82e2313fa45.jpg" ,CN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/cn.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/666-crop-crop3250632baf054ae1.png" ,BOOM ANIME
+https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" ,BOOMERANG
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" ,ZOOMOONZ
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8

@@ -1,0 +1,42 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421224528CNN.jpg",CNN
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dkl-c33es.cdn.akamaiz.com/dookeela/cnn/chunks.m3u8?nimblesessionid=1790149&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDk6MjY6MDUgQU0maGFzaF92YWx1ZT1vZjNoekNRYWJ4YjBaSnZPNkd6YjFnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421224653CBS_News.jpg",CBS NEWS
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6Mjk6MzMgQU0maGFzaF92YWx1ZT1jQ3g3cXNYUUN6d2M2WmVPcm1KL3RRPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421225150NHK.jpg",NHK WOLD
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://b-bmcc.nhkworld.jp/live/index_1M.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MzE6MTQgQU0maGFzaF92YWx1ZT1RZnM3RGFxTHdMV1ZrT0dHcTFNN3pnPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421225204Bloomberg.jpg",BLOOMBERG
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MzI6MDUgQU0maGFzaF92YWx1ZT12NGZMTTZkK1pHbVNPZTFGTkNLWnpRPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421225216RT.jpg",RT
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
+
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421225237CGTN.jpg",CGTN
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.cgtn.com/1000/prog_index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MzM6NTMgQU0maGFzaF92YWx1ZT05WmxuS0JrS0ZiaXdhZlFUL1F6eUtnPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV NEWS" tvg-logo="https://img.inwiptv.net/postor/20240421225254FoxNews.jpg",FOXNEWS
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MzQ6MjEgQU0maGFzaF92YWx1ZT1ZVGFGNG5zdGQrem5FTTV6WHUrK0dnPT0mdmFsaWRtaW51dGVzPTI=

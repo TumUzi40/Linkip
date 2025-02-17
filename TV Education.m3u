@@ -1,0 +1,91 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004212DLTV1.jpg",01 DLTV1
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w951587384_b3128000_slth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDU6NTM6MDIgQU0maGFzaF92YWx1ZT0xMnpXYkpCOXZkQmJBYXJ3UGE4TFh3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004220DLTV2.jpg",02 DLTV2
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w573047860_b1328000_slth.m3u8
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004228DLTV3.jpg",03 DLTV3
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-03-adaptive.smil/chunklist_w1041032016_b1328000_slth.m3u8
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004241DLTV4.jpg",04 DLTV4
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDU6NDkgQU0maGFzaF92YWx1ZT1wT3g4ZkRCeEFYQ2FBNGxrdFR4a3BRPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004253DLTV5.jpg",05 DLTV5
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDc6MDYgQU0maGFzaF92YWx1ZT1nK3ltNzRrMU5jWVNpbS9jK2UyN2d3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004308DLTV6.jpg",06 DLTV6
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDc6NTQgQU0maGFzaF92YWx1ZT0wVG5SNXZJQkUvczJZZERQd1QzMjNBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004329DLTV7.jpg",07 DLTV7
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDg6MjMgQU0maGFzaF92YWx1ZT14U0xlSi9ncXpkRDZZUE55bTBGUDZBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004337DLTV8.jpg",08 DLTV8
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDg6NTkgQU0maGFzaF92YWx1ZT1zem9Dd3hsSWs2aGdYVnE1dVJjbXVBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004350DLTV9.jpg",09 DLTV9
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDk6MjYgQU0maGFzaF92YWx1ZT1WZTNZSWdnbEVSM0xvbHN5cGp6YnFBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004400DLTV10.jpg",10 DLTV10
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MDk6NTcgQU0maGFzaF92YWx1ZT10c2dWUGxoRmt3ellkUCtqbUJKNXNnPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004411DLTV11.jpg",11 DLTV11
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MTA6MjggQU0maGFzaF92YWx1ZT1kRG41cHlSWG50U0RqZ0JWZENqR2FBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004423DLTV12.jpg",12 DLTV12
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDY6MTE6NTUgQU0maGFzaF92YWx1ZT0vb1R0eTNCQkhMMHlZbktHaUtWSGN3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004434DLTV13.jpg",13 DLTV13
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-13-adaptive.smil/chunklist_w1274601241_b2128000_slth.m3u8
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004445DLTV14.jpg",14 DLTV14
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w1963210779_b2128000_slth.m3u8
+
+
+#EXTINF:-1 group-title="TV Edu" tvg-logo="https://img.inwiptv.net/postor/20240422004500DLTV15.jpg",15 DLTV15
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w721297285_b2128000_slth.m3u8

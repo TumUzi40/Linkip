@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",001-True Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://dookeela.live/live-tv/epl1_sd#
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",002-True Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.  
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=43&tv=truesports2
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",003-True Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=76&tv=truesports3
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",004-True Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=395&tv=truesports4
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",005-True Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=78&tv=truesports5
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",006-True Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=79&tv=truesports7
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",007-Bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=44&tv=%E0%B8%9A%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B9%8C1
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",008-Bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=188&tv=%E0%B8%9A%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B9%8C2
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",009-Bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=188&tv=%E0%B8%9A%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B9%8C2
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",010-True Premier HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=38&tv=TruePremierFootball1
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",011-True Premier HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/https://aisplay24hd.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=39&tv=TruePremierFootball2
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",012-True Premier HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=40&tv=TruePremierFootball3
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",013-True Premier HD4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น. 
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=41&tv=TruePremierFootball4
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",014-True Premier HD5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น. 
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=42&tv=TruePremierFootball5
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",015-Spotv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.  
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=59&tv=SPOTV
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",016-Spotv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.  
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=60&tv=SPOTV2
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/-04198c8167ab4e77.png",017-Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.  
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=394&tv=TrueTennis
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",019-PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",020-MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=133&tv=MCOTHD
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",021-THAIRATH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=179&tv=%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://img2.pic.in.th/pic/d0c393b2885143e162a90494674b14ff.png",022-MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+#EXTVLCOPT:update=22-6-67 6.50น.
+#EXTVLCOPT: develop by IPTV
+https://dookeela.live/live-tv/mcothd#
